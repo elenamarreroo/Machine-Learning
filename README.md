@@ -37,4 +37,4 @@
 
 ## 🗂 Orden de las prácticas 
 
-<p align="justify">Cada una de las prácticas/proyectos se encuentran en las carpetas en la parte superior. Dentro de cada una de ellas encontraremos un README.md con la información necesaria y la estructura del laboratorio.</p>
+<p align="justify">Cada una de las prácticas/proyectos se encuentran en las carpetas en la parte superior. Dentro de cada una de ellas encontraremos un README.md con la información necesaria y la estructura del laboratorio. A continuación se explica detalladamente el contenido de cada una de las partes:</p>
