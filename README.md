@@ -38,3 +38,36 @@
 ## 🗂 Orden de las prácticas 
 
 <p align="justify">Cada una de las prácticas/proyectos se encuentran en las carpetas en la parte superior. Dentro de cada una de ellas encontraremos un README.md con la información necesaria y la estructura del laboratorio. A continuación se explica detalladamente el contenido de cada una de las partes:</p>
+
+- Parte 1 - Preprocesado y selección de características.
+
+        P1_1: Preprocesado de conjuntos de datos (Normalización y Codificación).
+        P1_2: Selección de características ( Métodos filter y wrapper).
+
+- Parte 2 – Extracción de características.
+
+        P2_1: Análisis de Componentes Principales (PCA).
+        P2_2: Separación de conjuntos: Hold-out, V-fold, Leave-one-out.
+
+- Parte 3 - SVMs en problemas de clasificación.
+
+        P3_1: Ejemplos (OVR – OVO).
+        P3_2: Aprendizaje activo con SVMs .
+
+- Parte 4 - SVRs en problemas de regresión.
+
+        P4_1: SVRs regresión.
+        P4_2: Hackathon, competición entre los alumnos por ver quien obtienen el menor MSE y mejor accuracy de predicción para unos datos dados.
+        P4_3: Solución del Hackathon.
+
+- Parte 5 - Modelos basados en árbol de decisión para problemas de clasificación y regresión.	
+
+        P5_1: Trees classification.
+        P5_2: Trees regression.
+
+- Parte 6 - Modelos basados en ensembles de árboles.
+        P6_1: DecisionTreeClassifier.
+        P6_2: Decesion Tree Regressor.
+        P6_3: Random Forest.
+
+- Parte 7 – Proyecto final.
