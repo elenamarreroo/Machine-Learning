@@ -37,7 +37,7 @@
 
 ## 🗂 Orden de las prácticas 
 
-<p align="justify">Cada una de las prácticas/proyectos se encuentran en las carpetas en la parte superior. Dentro de cada una de ellas encontraremos un README.md con la información necesaria y la estructura del laboratorio. A continuación se explica detalladamente el contenido de cada una de las partes:</p>
+<p align="justify">Cada una de las prácticas/proyectos se encuentran en las carpetas en la parte superior. Dentro de cada una de ellas encontraremos un README.md con la información necesaria, una carpeta llamada plantilla que recoge los laboratorios sin solución para quien desee realizarlos y por último, unos Jupyter Notebooks con los laboratorios con solución. A continuación se explica detalladamente el contenido de cada una de las partes:</p>
 
 - Parte 1 - Preprocesado y selección de características.
 
@@ -66,6 +66,7 @@
         P5_2: Trees regression.
 
 - Parte 6 - Modelos basados en ensembles de árboles.
+
         P6_1: DecisionTreeClassifier.
         P6_2: Decesion Tree Regressor.
         P6_3: Random Forest.
