@@ -72,3 +72,5 @@
         P6_3: Random Forest.
 
 - Parte 7 – Proyecto final.
+
+        Desarrolla un algoritmo que a partir de unos datos de entrada (X) prediga los valores de salida (Y).
