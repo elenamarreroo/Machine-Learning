@@ -16,9 +16,9 @@
 
 - Parte 5 - Modelos basados en árbol de decisión para problemas de clasificación y regresión.
 
-- Parte 6 - Modelos basados en ensembles de árboles
+- Parte 6 - Modelos basados en ensembles de árboles.
 
-- Parte 7 – Proyecto final
+- Parte 7 – Proyecto final.
 
 ## 🧮 Dinámica de las prácticas
 
@@ -78,4 +78,4 @@
    
 ## 📄 Licencia 
 
-Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
