@@ -74,3 +74,8 @@
 - Parte 7 – Proyecto final.
 
         Desarrolla un algoritmo que a partir de unos datos de entrada (X) prediga los valores de salida (Y).
+        
+   
+## 📄 Licencia 
+
+Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
